@@ -1,0 +1,3 @@
+This file will be used in our git repository 
+
+making small modifications to update our git repository for lab 6
